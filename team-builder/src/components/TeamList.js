@@ -1,4 +1,5 @@
 import React from 'react'
+import '../App.css';
 
 function TeamList(props) {
 
@@ -9,6 +10,7 @@ function TeamList(props) {
                 <h4>Email: {props.email}</h4>
                 <h4>Job Role: {props.role} </h4>
             </p>
+            <hr />
         </div>
     )
 }

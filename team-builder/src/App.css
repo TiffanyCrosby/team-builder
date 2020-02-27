@@ -1,3 +1,29 @@
 .App {
   text-align: center;
 }
+
+.App h1{
+  width: 95%;
+  margin: 4% auto;
+  padding: 1% 0;
+  border:3px double lightcoral;
+  background-color: lightskyblue;
+}
+
+.form{
+  margin: 3% auto 7%;
+}
+
+button{
+  border-radius: 5px;
+}
+
+.team-list{
+  width: 90%;
+  margin: 5% auto;
+}
+
+.label{
+  margin: 2%;
+  padding: 1%;
+}
